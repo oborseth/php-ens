@@ -1,0 +1,9 @@
+[submodule "php-keccak"]
+	path = php-keccak
+	url = https://github.com/kornrunner/php-keccak.git
+[submodule "php-secp256k1"]
+	path = php-secp256k1
+	url = https://github.com/kornrunner/php-secp256k1.git
+[submodule "phpecc"]
+	path = phpecc
+	url = https://github.com/phpecc/phpecc.git
