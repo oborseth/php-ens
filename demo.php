@@ -15,7 +15,7 @@
                         // registered domain
                         $domain = '';
                         // Ethereum  address to associate with domain
-                        $owner = '';
+                        $owner = '0x21D4161657F09f312a5BDE300A853252A026EC77';
 			// IANA ID of registrar
 			$ianaId = '';
 
